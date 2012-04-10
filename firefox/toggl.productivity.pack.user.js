@@ -2,6 +2,7 @@
 // @name          Toggl - Productivity Pack
 // @namespace     https://github.com/mii-at/toggl-productivity-pack
 // @description   This extension provides several productivity enhancements for Toggl time tracking (http://www.toggl.com).
+// @icon          https://github.com/mii-at/toggl-productivity-pack/raw/master/resources/toggl-logo.png
 // @version       1.0
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
 // @include       https://www.toggl.com/report*

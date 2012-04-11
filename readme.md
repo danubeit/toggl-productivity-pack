@@ -6,7 +6,7 @@ The Toggl Productivity Pack provides enhancements for the [Toggl](http://www.tog
 Enhancements
 ------------
 
- * Select All / None links in person, project and tag filter.
+ * Select All / None links in person, project and tag report filters.
 
 Installation
 ------------

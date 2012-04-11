@@ -1,5 +1,6 @@
 Toggl - Productivity Pack
 =========================
+by [mii GmbH](http://www.mii.at)
 
 The Toggl Productivity Pack provides enhancements for the [Toggl](http://www.toggl.com) time tracking service. This extension is available for [Mozilla Firefox](http://www.mozilla.org/firefox/) and [Google Chrome](https://www.google.com/chrome).
 

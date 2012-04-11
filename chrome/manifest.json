@@ -2,10 +2,8 @@
   "name": "Toggl - Productivity Pack",
   "homepage_url": "https://github.com/mii-at/toggl-productivity-pack",
   "icons": {"128": "toggl-logo.128.png", "48": "toggl-logo.48.png"},
-  "version": "1.0",
-  "description": "This extension provides several productivity enhancements for Toggl time tracking (http://www.toggl.com).",
-  "browser_action": {
-  },
+  "version": "1.0.3",
+  "description": "Productivity enhancements for Toggl time tracking",
   "permissions" : [],
   "content_scripts": [
     {

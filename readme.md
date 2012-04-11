@@ -14,8 +14,8 @@ Installation
 
 ### Google Chrome
 
-Google Chrome users may go to [Chrome Web Store](https://chrome.google.com/webstore/category/home) and install the extension from there.
+Google Chrome users may go to [Chrome Web Store](https://chrome.google.com/webstore/detail/ehdkmhgmlehnbibjhddpfelefhhniecm) and install the extension from there.
 
 ### Mozilla Firefox
 
-Mozilla Firefox users may install the [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) extension and then install the extension from [userscripts.org](http://userscripts.org/).
+Mozilla Firefox users may install the [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) extension and then install the extension from [userscripts.org](http://userscripts.org/scripts/show/130578).

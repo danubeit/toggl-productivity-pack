@@ -2,7 +2,7 @@ Toggl - Productivity Pack
 =========================
 by [mii GmbH](http://www.mii.at)
 
-The Toggl Productivity Pack provides enhancements for the [Toggl](http://www.toggl.com) time tracking service. This extension is available for [Mozilla Firefox](http://www.mozilla.org/firefox/) and [Google Chrome](https://www.google.com/chrome).
+The Toggl Productivity Pack provides enhancements for the [Toggl](http://www.toggl.com) time tracking service. This extension is available for [Internet Explorer](http://www.microsoft.com/windows/internet-explorer/), [Mozilla Firefox](http://www.mozilla.org/firefox/) and [Google Chrome](https://www.google.com/chrome).
 
 Enhancements
 ------------
@@ -11,6 +11,10 @@ Enhancements
 
 Installation
 ------------
+
+### Internet Explorer
+
+Internet Explorer users may install [Trixie](http://www.bhelpuri.net/Trixie/) and then copy [this script](https://github.com/mii-at/toggl-productivity-pack/raw/master/internet-explorer/toggl.productivity.pack.user.js) to the scripts folder in the Trixie installation folder. The extension can be activated in Trixie's options. A browser restart may be necessary.
 
 ### Google Chrome
 
